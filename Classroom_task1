@@ -1,0 +1,14 @@
+mkdir workspace
+cd workspace
+wget https://thinkpython.com/code/words.txt
+nano task1.py        #to write the code
+fin = open("words.txt")
+fin.readline()
+
+for line in fin:
+    line = line.strip
+    if len(line) > 0
+    if len(line1) > len(line2)
+    print(line)
+    
+    
